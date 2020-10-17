@@ -1,0 +1,36 @@
+C:\Users\wilso\source\repos\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.exe
+C:\Users\wilso\source\repos\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.deps.json
+C:\Users\wilso\source\repos\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.runtimeconfig.json
+C:\Users\wilso\source\repos\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.runtimeconfig.dev.json
+C:\Users\wilso\source\repos\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.dll
+C:\Users\wilso\source\repos\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.pdb
+C:\Users\wilso\source\repos\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.AssemblyInfoInputs.cache
+C:\Users\wilso\source\repos\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.AssemblyInfo.cs
+C:\Users\wilso\source\repos\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.dll
+C:\Users\wilso\source\repos\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.pdb
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.exe
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.deps.json
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.runtimeconfig.json
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.runtimeconfig.dev.json
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.dll
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.pdb
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.AssemblyInfo.cs
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.dll
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.pdb
+C:\Users\pc\Desktop\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.genruntimeconfig.cache
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.exe
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.deps.json
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.runtimeconfig.json
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.runtimeconfig.dev.json
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.dll
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\bin\Debug\netcoreapp3.1\tabla_multiplicar_2-9.pdb
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.AssemblyInfo.cs
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.dll
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.pdb
+C:\Users\User\Desktop\ejercicio programacion III trimestre\taller 1 III TRI P.O\tabla_multiplicar_2-9\tabla_multiplicar_2-9\obj\Debug\netcoreapp3.1\tabla_multiplicar_2-9.genruntimeconfig.cache
